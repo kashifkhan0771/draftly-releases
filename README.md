@@ -1,4 +1,4 @@
-<a href="https://www.flaticon.com/free-icons/draft" title="draft icons">
+<a href="https://www.flaticon.com/free-icons/draft" title="Draftly Logo" target="_blank">
     <img src="assets/logo.png" width="100">
 </a>
 
