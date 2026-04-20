@@ -4,6 +4,12 @@
 
 # Draftly
 
+[![GitHub all releases](https://img.shields.io/github/downloads/kashifkhan0771/draftly-releases/total.svg)](https://github.com/kashifkhan0771/draftly-releases/releases)
+[![Latest release](https://img.shields.io/github/v/release/kashifkhan0771/draftly-releases)](https://github.com/kashifkhan0771/draftly-releases/releases/latest)
+[![Built with Go](https://img.shields.io/badge/built%20with-Go-00ADD8?logo=go&logoColor=white)](https://go.dev)
+[![Built with Wails](https://img.shields.io/badge/built%20with-Wails-DF0000?logo=wails&logoColor=white)](https://wails.io)
+[![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue)](#install)
+
 **A local-first, privacy-native desktop note-taking app — with AI writing assistance built in.**
 
 Your notes stay on your machine. No accounts, no cloud sync required, no data harvesting.  
@@ -111,6 +117,8 @@ Download the `.deb` package from the [releases page](https://github.com/kashifkh
 ```bash
 sudo apt install ./draftly_VERSION_amd64.deb
 ```
+
+If the app does not launch on start after install, run `draftly` from a terminal — it will start the app and surface any startup errors.
 
 ### macOS
 
